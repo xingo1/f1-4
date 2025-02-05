@@ -40,6 +40,7 @@ body {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
+  background-image: url("../images/f1-logo-png-red-large.png");
 }
 
 .heading_container h2 {
@@ -57,7 +58,7 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-image: url(../images/images (1).jpeg);
+  background-image: url(../images/UsZ7rBPAq2uywGRJu7YumY.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -277,7 +278,7 @@ a:focus {
 }
 
 .slider_section .slider_heading h2 span {
-  color: #fb0421;
+  color: #f9e5fc;
 }
 
 .slider_section .detail-box h1 {
@@ -350,7 +351,7 @@ a:focus {
   text-indent: unset;
   border: none;
   background-color: transparent;
-  color: #ffffff;
+  color: #0a0a0b;
   font-weight: bold;
   font-size: 2rem;
   opacity: 1;
@@ -374,13 +375,13 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 8px;
   background-position: center;
-  background-color: #fb0421;
+  background-color: #0a0a0b;
   border-radius: 100%;
 }
 
 .slider_section .carousel-control-prev:hover,
 .slider_section .carousel-control-next:hover {
-  background-color: #ffffff;
+  background-color: #0a0a0b;
 }
 
 .slider_section .carousel-control-prev {
@@ -442,7 +443,7 @@ a:focus {
 
 .about_section .about_container {
   padding: 45px;
-  background-image: url(../images/about-bg.jpg);
+  background-image: url(../images/gettyimages-2066378664-612x612.jpg);
   background-size: cover;
 }
 
